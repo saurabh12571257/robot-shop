@@ -3,3 +3,4 @@ image:
   version: latest
   pullPolicy: IfNotPresent
 
+catalogue: {}
